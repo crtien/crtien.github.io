@@ -8,7 +8,7 @@
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Crowdfunding](sample_presentation.pdf)
+[Crowdfunding](CROWDFUNDING_PRESENTATION.pdf)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
