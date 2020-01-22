@@ -4,25 +4,25 @@
 
 ### Coursework Projects
 
-[Project 1 Title](sample_page)
+[Customer Value Scoring for Label Master](sample_page)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](sample_presentation.pdf)
+[Crowdfunding](sample_presentation.pdf)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Sentiment Analysis on the Yelp Dataset using PySpark](http://example.com/)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Personal Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Image Classification with the MNIST set](http://example.com/)
+- [Deep Learning](http://example.com/)
+- [Titanic Dataset](http://example.com/)
+- [Computer Vision - Udacity](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
